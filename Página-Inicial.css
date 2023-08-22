@@ -983,8 +983,8 @@
 .u-section-10 .embed-responsive-1 {
   position: absolute;
   width: 100%;
-  left: 0;
   height: 100%;
+  left: 0;
   top: 0;
 }
 
@@ -1031,11 +1031,6 @@
     width: auto;
     margin-right: initial;
     margin-left: initial;
-  }
-
-  .u-section-10 .embed-responsive-1 {
-    left: -39%;
-    top: -39%;
   }
 
   .u-section-10 .u-text-2 {
