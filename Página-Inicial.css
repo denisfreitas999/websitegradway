@@ -1,44 +1,10 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url("images/3.jpg");
+  background-image: url("images/tripleLogo1.png");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 891px;
-}
-
-.u-section-1 .u-image-1 {
-  width: 471px;
-  height: 148px;
-  margin: 25px auto 0 324px;
-}
-
-.u-section-1 .u-image-2 {
-  width: 479px;
-  height: 240px;
-  margin: 0 auto;
-}
-
-.u-section-1 .u-text-1 {
-  font-size: 3.75rem;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: -300px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 0.3;
-  margin: 8px auto 0;
-}
-
-.u-section-1 .u-text-2 {
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 0.3;
-  width: 760px;
-  margin: 61px auto 0;
+  min-height: 726px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -52,53 +18,29 @@
   border-style: solid;
   font-weight: 500;
   text-transform: uppercase;
-  margin: 50px auto 60px;
+  margin: 631px auto 34px;
   padding: 16px 47px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 735px;
+    min-height: 599px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 563px;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-left: 249px;
-  }
-
-  .u-section-1 .u-text-2 {
-    width: 720px;
+    min-height: 481px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 422px;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-top: 766px;
-    margin-left: 69px;
-  }
-
-  .u-section-1 .u-image-2 {
-    margin-top: -706px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-top: 398px;
-  }
-
-  .u-section-1 .u-text-2 {
-    width: 540px;
+    min-height: 369px;
   }
 
   .u-section-1 .u-btn-1 {
+    margin-top: 944px;
     margin-bottom: 0;
   }
 }
@@ -108,32 +50,8 @@
     min-height: 155px;
   }
 
-  .u-section-1 .u-image-1 {
-    width: 340px;
-    height: 107px;
-    margin-top: 595px;
-    margin-left: 0;
-  }
-
-  .u-section-1 .u-image-2 {
-    width: 340px;
-    height: 170px;
-    margin-top: -521px;
-  }
-
-  .u-section-1 .u-text-1 {
-    font-size: 1.875rem;
-    width: auto;
-    margin-top: 432px;
-  }
-
-  .u-section-1 .u-text-2 {
-    width: auto;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
   .u-section-1 .u-btn-1 {
+    margin-top: 826px;
     padding: 15px 38px 17px 37px;
   }
 } .u-section-2 {
